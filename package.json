@@ -1,0 +1,22 @@
+{
+  "name": "beny",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benyy",
+  "license": "ISC",
+  "description": "BenyTB",
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js"
+  ]
+}
