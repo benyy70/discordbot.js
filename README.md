@@ -15,5 +15,5 @@
 - dw
 - clear
 
-## Copyrights
+## Copyright
 - © Copyright bennyS | Powered by Benny Leaks
