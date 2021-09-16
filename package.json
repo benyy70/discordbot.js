@@ -1,5 +1,5 @@
 {
-  "name": "beny",
+  "name": "xbeny",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -11,9 +11,9 @@
     "dev:watch": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Benyy",
+  "author": "xbeny#4907",
   "license": "ISC",
-  "description": "BenyTB",
+  "description": "Poweredy by Benny Leaks & xbeny community.",
   "keywords": [
     "discord",
     "discord-bot",

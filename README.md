@@ -10,10 +10,9 @@
 - polls
 - kick
 - ban
-- warn
 - announce
 - dw
 - clear
 
 ## Copyright
-- © Copyright bennyS | Powered by Benny Leaks
+- © Copyright bennyS | Powered by Benny Leaks & xbeny community.
